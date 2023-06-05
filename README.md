@@ -7,9 +7,23 @@ The rising consumer demand for online food delivery has significantly increased 
 
 ### Replication
 
-- Software and Codes: STATA 16.0 or above is recommended in running the following do-files:
+- Software and Codes: STATA 16.0 or above is recommended in running the attached do-files.
 
-  - Figure 2-Figure 6: replication codes at ~/code/figure, fig2.do-fig6.do 
-  - Table S1-TableS6: replication codes at ~/code/S_table, tableS1.do-tableS6
-  - Extended Data Figures: replication codes at ~/code/ex_figure, ex1.do-ex7.do
+
+### Data Access 
+The custom-by-yearmonth level data used for this research is stored on an open server managed by Eleme. To access the server, follow these two steps:
+
+(1) Write an email to the server manager at ljj01731358@alibaba-inc.com, briefly stating your data request and proposing one or more time slots for server access. No form is required.
+
+(2) At the scheduled time, log in to the server via a temporary account provided by the server manager using this link: https://mozi-login.alibaba-inc.com/ssoLogin.htm?preLoginKey=dTwDQeXDFZ1685985098356GiqpKqStOX.
+
+
+
+
+
+
+
+
+
+
 
